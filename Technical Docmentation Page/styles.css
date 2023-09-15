@@ -1,0 +1,31 @@
+*{
+    line-height:1.75;
+    font-family:sans-serif;
+}
+  #navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:300px;
+    height:100%;
+    border-right:2px solid grey;
+  }
+  #navbar li{
+    list-style-type:none;
+    border-top:1px solid grey;
+    margin-left:0;
+    padding:5px;
+  }
+  #navbar a{
+    text-decoration:none;
+    color:black;
+  }
+  #main-doc{
+    margin-left:300px;
+    margin-top:50px;
+    padding-left:20px;
+  }
+  header{
+    font-weight:bold;
+    font-size:30px;
+  }
